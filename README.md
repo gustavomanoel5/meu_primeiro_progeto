@@ -1,2 +1,2 @@
 # meu_primeiro_progeto
-Este é o meu primeiro progeto HTML
+Este é o meu primeiro projeto HTML
